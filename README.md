@@ -4,11 +4,6 @@ A static Amazon-inspired e-commerce web page built using HTML & CSS — replicat
 
 This project is designed for learning front-end development and practicing real-world UI design by cloning the structure of a major e-commerce site for skill improvement.
 
-🛍️ Demo
-
-(Add a live demo link here if you host it with GitHub Pages, Netlify, Vercel, etc.)
-
-👉 https://your-demo-link.com
 
 🚀 Features
 
@@ -71,9 +66,6 @@ You can expand this project by adding:
 ✨ Backend integration
 ✨ Responsiveness for mobile/tablet screens
 
-📸 Screenshots
-
-(Add project screenshots here for visuals — useful for showcasing UI)
 
 🤝 Contributing
 
